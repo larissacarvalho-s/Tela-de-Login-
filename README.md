@@ -15,9 +15,10 @@ Este projeto foi desenvolvido com:
 ## 💻 Visualização
 
 > [!TIP]
-> Você pode substituir a imagem abaixo por um print do seu próprio projeto!
+> <img width="1858" height="922" alt="Captura de tela 2026-02-15 101746" src="https://github.com/user-attachments/assets/40c5ffd5-1f6a-42d7-880d-4359f7664ecf" />
 
-![Preview do Projeto]()
+
+![Preview do Projeto](https://tela-de-login-xi-red.vercel.app/)
 
 ## ✨ Funcionalidades
 
