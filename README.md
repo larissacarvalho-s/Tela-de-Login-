@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com:
 ## 💻 Visualização
 
 > [!TIP]
-> <img width="1858" height="922" alt="Captura de tela 2026-02-15 101746" src="https://github.com/user-attachments/assets/40c5ffd5-1f6a-42d7-880d-4359f7664ecf" />
+<img width="1858" height="922" alt="Image" src="https://github.com/user-attachments/assets/ff3d41af-5390-487c-8065-c92a77ef891b" />
 
 
 ![Preview do Projeto](https://tela-de-login-xi-red.vercel.app/)
